@@ -1,1 +1,1 @@
-gamma-api.cc api methods leaked i will be leaking a shit ton of api methods soon
+Located from gamma-api.cc / More leaks soon
